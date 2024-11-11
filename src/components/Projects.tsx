@@ -63,7 +63,7 @@ function Projects() {
           name="Personal Portfolio"
           technology="React, TypeScript"
           description="My personal portfolio website"
-          link="#"
+          link="https://github.com/LeonardoDuenas/personal-portfolio"
         />
       </div>
     </div>
