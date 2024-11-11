@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'norwester';
+    src: url('../fonts/norwester.woff') format('woff');
+    font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'norwester', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}

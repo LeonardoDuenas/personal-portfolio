@@ -1,0 +1,17 @@
+body {
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    position:relative;
+}
+
+.content-container {
+    background-color: aliceblue;
+    color: #000;
+    margin: 100px auto 0;
+    max-width: 85rem;
+    border-radius: 2rem;
+    padding-top: 2rem;
+}
+

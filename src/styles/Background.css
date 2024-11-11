@@ -1,0 +1,130 @@
+.background-obj {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    z-index: -10;
+    filter: blur(15px);
+    mix-blend-mode: multiply;
+}
+
+.obj-1 {
+    top: 40px;
+    background: rgba(125, 211, 252, 1)
+}
+
+.obj-2 {
+    left: -30px;
+    background: rgba(249, 168, 212, 1);
+}
+
+.obj-3 {
+    left: 90px;
+    background: rgba(254, 240, 138, 1);
+}
+
+.obj-4 {
+    right: 100px;
+    background: rgba(255, 184, 184, 1);
+}
+
+.obj-5 {
+    right: 250px;
+    top: 100px;
+    background: rgba(134, 239, 172, 1);
+}
+
+.obj-6 {
+    right: 300px;
+    background: rgba(147, 197, 253, 1);
+}
+
+.obj-7 {
+    background: rgba(125, 211, 252, 1);
+    top: 600px;
+    left: 0px;
+}
+
+.obj-8 {
+    background: rgba(255, 184, 184, 1);
+    top: 500px;
+    left: 50px;
+}
+
+.obj-9 {
+    background: rgba(147, 197, 253, 1);
+    top: 700px;
+    left: 80px;
+}
+
+.obj-10 {
+    background: rgba(134, 239, 172, 1);
+    top: 800px;
+    left: 20px;
+}
+
+.obj-11 {
+    background: rgba(248, 113, 113, 1);
+    top: 900px;
+    left: -10px;
+}
+
+.obj-12 {
+    background: rgba(254, 240, 138, 1);
+    top: 1120px;
+    left: 50px;
+}
+
+.obj-13 {
+    background: rgba(249, 168, 212, 1);
+    top: 1358px;
+    left: 20px;
+}
+
+.obj-14 {
+    background: rgba(147, 197, 253, 1);
+    top: 1700px;
+    left: 0px;
+}
+
+.obj-15 {
+    background: rgba(134, 239, 172, 1);
+    top: 1800px;
+    right: 50px;
+}
+
+.obj-16 {
+    background: rgba(248, 113, 113, 1);
+    top: 1650px;
+    right: 20px;
+}
+
+.obj-17 {
+    background: rgba(254, 240, 138, 1);
+    top: 1400px;
+    right: 50px;
+}
+
+.obj-18 {
+    background: rgba(249, 168, 212, 1);
+    top: 1200px;
+    right: 0px;
+}
+
+.obj-19 {
+    background: rgba(147, 197, 253, 1);
+    top: 900px;
+    right: 40px;
+}
+
+.obj-20 {
+    background: rgba(254, 240, 138, 1);
+    top: 700px;
+    right: 80px;
+}
+
+.obj-21 {
+    background: rgba(249, 168, 212, 1);
+    top: 500px;
+    right: 10px;
+}
