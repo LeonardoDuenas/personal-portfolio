@@ -55,7 +55,7 @@ function Projects() {
           name="Booking Engine Web App"
           technology="HTML, CSS, JavaScript, PHP"
           description="A booking engine web application developed using PHP and JavaScript"
-          link="#"
+          link="https://github.com/LeonardoDuenas/Hotel-Reserve-Engine"
         />
       </div>
       <div className="hstack">
