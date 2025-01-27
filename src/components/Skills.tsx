@@ -14,17 +14,28 @@ function Skills() {
       <SkillList
         title="Web Developement"
         skills={["HTML", "CSS", "PHP", "DJango", "React", "NodeJs"]}
+        color="info"
+      />
+      <SkillList
+        title="Mobile Development"
+        skills={["Android Studio", "IOS", "Swift"]}
         color="success"
       />
       <SkillList
         title="Database Management"
-        skills={["SQLite", "Oracle", "MongoDB", "Microsoft SQL Server"]}
-        color="danger"
+        skills={[
+          "SQLite",
+          "Oracle",
+          "MongoDB",
+          "Microsoft SQL Server",
+          "Firebase",
+        ]}
+        color="warning"
       />
       <SkillList
         title="Tools and Technologies"
-        skills={["Git", "Linux", "APIs"]}
-        color="warning"
+        skills={["Agile", "Github", "Vite", "Linux", "APIs"]}
+        color="danger"
       />
     </div>
   );

@@ -65,6 +65,24 @@ function Projects() {
           description="My personal portfolio website"
           link="https://github.com/LeonardoDuenas/personal-portfolio"
         />
+        <ProjectCard
+          name="Simubet App"
+          technology="Android Studio, Java"
+          description="A sports betting app developed in Android Studio"
+          link="https://github.com/arielbendahan/SimuBet-Project"
+        />
+        <ProjectCard
+          name="Airplane Simulator"
+          technology="Java"
+          description="A Java application that simulates the actions of an airplane"
+          link="https://github.com/LeonardoDuenas/Airplane-Simulator"
+        />
+        <ProjectCard
+          name="Property Rental Management"
+          technology="C#, ASP.Net"
+          description="An ASP.Net application that displays a web app which manages property rentals"
+          link="https://github.com/LeonardoDuenas/Property-Rental-Management-System"
+        />
       </div>
     </div>
   );
