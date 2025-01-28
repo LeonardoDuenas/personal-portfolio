@@ -2,10 +2,7 @@ import downloadIcon from "../icons/download.svg";
 
 function DownloadCV() {
   return (
-    <a
-      href="../assets/CV_LEONARDO_DUENAS.pdf"
-      download="CV_LEONARDO_DUENAS.pdf"
-    >
+    <a href="/CV_LEONARDO_DUENAS.pdf" download>
       <img
         src={downloadIcon}
         alt="download"
