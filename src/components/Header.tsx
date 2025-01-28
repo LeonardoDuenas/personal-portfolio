@@ -38,11 +38,7 @@ function Header() {
             <a href="#contact-section" className="nav-link">
               Contact
             </a>
-            <a
-              href="../assets/CV - LEONARDO DUENAS.pdf"
-              download="CV - LEONARDO DUENAS.pdf"
-              className="nav-link"
-            >
+            <a href="/CV_LEONARDO_DUENAS.pdf" download className="nav-link">
               CV
             </a>
           </div>
